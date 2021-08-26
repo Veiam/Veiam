@@ -10,6 +10,9 @@
 - Current Goal
 -- Completion of AZ-900, DP-900, AI-900, and SAA-C02
 
+- Possible Future Project
+-- Gerrit Shortcut GUI Plugin?
+
 <!---
 Veiam/Veiam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
