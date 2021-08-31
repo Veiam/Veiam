@@ -8,7 +8,7 @@
 -- Auto Coupon Clipper for Chrome Extension (WIP)
 
 - Current Goal
--- Completion of AZ-900, DP-900, AI-900, and SAA-C02
+-- Completion of SAA-C02 and SAS Professional followed by AZ-900, DP-900, and AI-900
 
 - Possible Future Project
 -- Gerrit Shortcut GUI Plugin?
