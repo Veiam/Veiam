@@ -4,14 +4,11 @@
 - 💞️ I’m not looking to collaborate at this moment, it's already hard putting myself on my back
 - 📫 How to reach me ... LinkedIn! https://www.linkedin.com/in/dayyang/
 
-- Current Project
--- Auto Coupon Clipper for Chrome Extension (WIP)
+- 🔥 Current Project is ... Auto Coupon Clipper for Chrome Extension (WIP)
 
-- Current Goal
--- Completion of SAA-C02 and SAS Professional followed by AZ-900, DP-900, and AI-900
+- ⚡ Current Goals are ... Completion of SCP and SAA-C02 followed by AZ-900, DP-900, and AI-900
 
-- Possible Future Project
--- Gerrit Shortcut GUI Plugin?
+- ❄️ Possible Future Project might be ... Gerrit Shortcut GUI Plugin?
 
 <!---
 Veiam/Veiam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
