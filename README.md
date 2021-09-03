@@ -10,6 +10,15 @@
 
 - ❄️ Possible Future Project might be ... Gerrit Shortcut GUI Plugin?
 
+- ✨ Private Repo Languages:
+C 52.5%
+Java 25.8%
+Shell 10.5%
+C++ 5.9%
+HTML 3.3%
+Makefile 1.4%
+CSS 0.6%
+
 <!---
 Veiam/Veiam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
