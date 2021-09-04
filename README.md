@@ -4,6 +4,12 @@
 - 💞️ I’m not looking to collaborate at this moment, it's already hard putting myself on my back
 - 📫 How to reach me ... LinkedIn! https://www.linkedin.com/in/dayyang/
 - 🔥 Current Project is ... Auto Coupon Clipper for Chrome Extension (WIP)
+JavaScript
+57.5%
+CSS
+35.4%
+HTML
+7.1%
 - ⚡ Current Goals are ... Completion of SCP followed by SAA-C02, AZ-900, DP-900, and AI-900
 - ❄️ Possible Future Project might be ... Gerrit Shortcut GUI Plugin?
 - ✨ Private Repo Languages:
