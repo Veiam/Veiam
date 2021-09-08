@@ -3,14 +3,14 @@
 - 🌱 I’m currently learning Cloud Services.
 - 💞️ I’m not looking to collaborate at this moment, it's already hard putting myself on my back
 - 📫 How to reach me ... LinkedIn! https://www.linkedin.com/in/dayyang/
-- 🔥 Current Project is ... Auto Coupon Clipper for Chrome Extension (WIP)
+- 🔥 Current Project is ... Auto Coupon Clipper for Chrome Extension (WIP-OnHold)
 JavaScript
 57.5%
 CSS
 35.4%
 HTML
 7.1%
-- ⚡ Current Goals are ... Completion of SCP followed by SAA-C02, AZ-900, DP-900, and AI-900
+- ⚡ Remaining Goals are ... Completion of SAA-C02 and SCP followed by AZ-900, DP-900, and AI-900.
 - ❄️ Possible Future Project might be ... Gerrit Shortcut GUI Plugin?
 - ✨ Private Repo Languages:
 C 52.5%
