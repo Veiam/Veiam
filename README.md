@@ -11,7 +11,7 @@ CSS
 HTML
 7.1%
 - ⚡ Remaining Goals are ... Completion of SAA-C02 and SCP followed by AZ-900, DP-900, and AI-900.
-- ❄️ Possible Future Project might be ... Gerrit Shortcut GUI Plugin?
+- ❄️ Possible Future Project Ideas ... QOL plugins for Blackduck or Gerrit?
 - ✨ Private Repo Languages:
 C 52.5%
 Java 25.8%
