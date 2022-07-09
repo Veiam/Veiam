@@ -2,15 +2,9 @@
 - 👀 I’m interested in spending hours on creating a program that will automate a repetitive task
 - 🌱 I’m currently practicing Algo, DP, and DS
 - 📫 How to reach me ... LinkedIn! https://www.linkedin.com/in/dayyang/
-- 🔥 Current Project is ... Private Chrome Extension:
-JavaScript
-57.5%
-CSS
-35.4%
-HTML
-7.1%
-- ⚡ Current Goals are ... Learning Azure
-- ❄️ Possible Future Project Ideas ... QOL plugins for Blackduck or Gerrit?
+- 🔥 Current Project is ... Finishing Blind and Neet
+- ⚡ Current Goals are ... Learning Cloud
+- ❄️ Future Project Ideas ... QOL Chrome Extension:
 - ✨ Private Repo Languages:
 C 52.5%
 Java 25.8%
