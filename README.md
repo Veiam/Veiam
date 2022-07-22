@@ -1,6 +1,6 @@
 - 👋 Hi there pard, I’m Day
 - 👀 I’m interested in spending hours on creating a program that will automate a repetitive task that takes a minute.
-- ⚡ My current preferred languages are
+- ⚡ My current work languages are
   - Front-End: Javascript/Typescript
   - Back-End: Java
 - 📫 How to reach me ... LinkedIn! https://www.linkedin.com/in/dayyang/
