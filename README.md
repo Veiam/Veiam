@@ -1,4 +1,4 @@
-- 👋 Hi there pard, I’m Day
+- 👋 Hi there pard, I’m Day!
 - 👀 I’m interested in spending hours on creating a program that will automate a repetitive task that takes a minute.
 - ⚡ My current work languages are
   - Front-End: Javascript/Typescript
