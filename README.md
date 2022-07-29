@@ -2,7 +2,7 @@
 - 👀 I’m interested in spending hours on creating a program that will automate a repetitive task that takes a minute.
 - ⚡ My current work languages are
   - Front-End: Javascript/Typescript
-  - Back-End: Java
+  - Back-End: Java/SQL
 - 📫 How to reach me ... LinkedIn! https://www.linkedin.com/in/dayyang/
 - 🔥 Current Project/Goal is ... Completing Blind, Grind, and Neet.
 - ❄️ Future Project/Goal ideas ... Cloud Certifications, GitHub Portfolio, and Browser Plugins/Add-ons.
