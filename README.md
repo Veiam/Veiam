@@ -1,8 +1,8 @@
 - 👋 Hi there pard, I’m Day!
 - 👀 I’m interested in spending hours on creating a program that will automate a repetitive task that takes a minute.
 - ⚡ My current work languages are
-  - Front-End: Javascript/Typescript
-  - Back-End: Java/SQL
+  - Front-End: Javascript/Typescript (AngularJS / Angular)
+  - Back-End: Java/SQL/SAS/GO/Bash
 - 📫 How to reach me ... LinkedIn! https://www.linkedin.com/in/dayyang/
 - 🔥 Current Project/Goal is ... Cloud Certification and Learning GoLang
 - ❄️ Future Project/Goal ideas ... Browser Plugins/Add-ons.
