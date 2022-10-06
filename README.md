@@ -6,7 +6,7 @@
 - 📫 How to reach me ... LinkedIn! https://www.linkedin.com/in/dayyang/
 - 🔥 Current Project/Goal is ... Cloud Certification and Learning GoLang
 - ❄️ Future Project/Goal ideas ... Browser Plugins/Add-ons.
-- 🌱 Recent Project/Goal finished ... Githug Page, Blind 75, Discord Bots and SAS Certifications.
+- 🌱 Recent Project/Goal finished ... GitHub Page, Blind 75, Discord Bots and SAS Certifications.
 - ✨ Private Repos Languages (excluding Public Repos Languages):
   - C 52.5%
   - Java 25.8%
