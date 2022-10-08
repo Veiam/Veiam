@@ -1,12 +1,12 @@
 - 👋 Hi there pard, I’m Day!
 - 👀 I’m interested in spending hours on creating a program that will automate a repetitive task that takes a minute.
 - ⚡ My current work languages are
-  - Front-End: Javascript/Typescript (AngularJS / Angular)
+  - Front-End: JavaScript/Angular/Angular JS
   - Back-End: Java/SQL/SAS/GO/Bash
-- 📫 How to reach me ... LinkedIn! https://www.linkedin.com/in/dayyang/
-- 🔥 Current Project/Goal is ... Cloud Certification and Learning GoLang
+- 📫 How to reach me ... Visit my LinkedIn using my [page](https://veiam.github.io)!
+- 🔥 Current Project/Goal is ... Cloud Certification and Learning GoLang/Kubernetes
 - ❄️ Future Project/Goal ideas ... Browser Plugins/Add-ons.
-- 🌱 Recent Project/Goal finished ... GitHub Page, Blind 75, Discord Bots and SAS Certifications.
+- 🌱 Recent Project/Goal finished ... GitHub Page, Blind 75, Discord Bots, and SAS Certifications.
 - ✨ Private Repos Languages (excluding Public Repos Languages):
   - C 52.5%
   - Java 25.8%
