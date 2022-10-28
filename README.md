@@ -4,9 +4,9 @@
   - Front-End: JavaScript/Angular/Angular JS
   - Back-End: Java/SQL/SAS/GO/Bash
 - 📫 How to reach me ... Visit my LinkedIn using my [page](https://veiam.github.io)!
-- 🔥 Current Project/Goal is ... Learning GoLang/Kubernetes and Completing Neet
-- ❄️ Future Project/Goal ideas ... Grind and Browser Plugins/Add-ons.
-- 🌱 This Year Projects/Goals finished ... Cloud Certification, GitHub Page, Blind 75, Discord Bots.
+- 🔥 Current Project/Goal is ... Learning GoLang/Kubernetes
+- ❄️ Future Project/Goal ideas ... Plugins/Add-ons.
+- 🌱 This Year Projects/Goals finished ... Cloud Certification, GitHub Page, Discord Bots.
 - ✨ Private Repos Languages (excluding Public Repos Languages):
   - C 52.5%
   - Java 25.8%
