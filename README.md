@@ -4,7 +4,7 @@
   - Front-End: JavaScript/Angular/Angular JS
   - Back-End: Java/SQL/SAS/GO/Bash
 - 📫 How to reach me ... Visit my LinkedIn using my [page](https://veiam.github.io)!
-- 🔥 Current Project/Goal is ... Learning GoLang/Kubernetes & System Designs
+- 🔥 Current Project/Goal is ... Learning GoLang/Kubernetes & System Designs/Software Architectures
 - ❄️ Future Project/Goal ideas ... Plugins/Add-ons.
 - 🌱 This Year Projects/Goals finished ... Cloud Certification, GitHub Page, Discord Bots.
 - ✨ Private Repos Languages (excluding Public Repos Languages):
