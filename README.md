@@ -1,12 +1,12 @@
 - 👋 Hi there pard, I’m Day!
 - 👀 I’m interested in spending my hours on creating a program that will automate a repetitive task that takes minutes.
-- ⚡ My current work languages are
+- ⚡ My current daily languages are
   - Front-End: JavaScript/Angular/Angular JS
-  - Back-End: Java/SQL/SAS/GO/Bash
+  - Back-End: Java/SQL/SAS/Golang/Bash
 - 📫 How to reach me ... Visit my LinkedIn using my [page](https://veiam.github.io)!
-- 🔥 Current Project/Goal is ... Learning GoLang/Kubernetes & System Designs/Software Architectures
+- 🔥 Current Month's Project/Goal is ... Learning GoLang/Kubernetes & System Designs/Software Architectures
 - ❄️ Future Project/Goal ideas ... Plugins/Add-ons.
-- 🌱 This Year Projects/Goals finished ... Cloud Certification, GitHub Page, Discord Bots.
+- 🌱 This Year Projects/Goals finished ... Cloud Certification, LinkedIn Learnings, GitHub Page, Discord Bots.
 - ✨ Private Repos Languages (excluding Public Repos Languages):
   - C 52.5%
   - Java 25.8%
