@@ -4,9 +4,9 @@
   - Front-End: JavaScript/Angular/Angular JS
   - Back-End: Java/SQL/SAS/Golang/Bash
 - 📫 How to reach me in seconds ... Visit my LinkedIn using my [page](https://veiam.github.io)!
-- 🔥 Current Month's Project/Goal is ... Learning GoLang/Kubernetes & System Designs/Software Architectures
+- 🔥 This Year's Project/Goal is ... System Designs/Software Architectures
 - ❄️ Future Project/Goal ideas ... Plugins/Add-ons.
-- 🌱 This Year Projects/Goals finished ... Security Trainings, Cloud Certification, LeetCode 250 Solved, LinkedIn Learnings, GitHub Page, Discord Bots.
+- 🌱 This Year Projects/Goals finished ... 
 - ✨ Private Repos Languages (excluding Public Repos Languages):
   - C 52.5%
   - Java 25.8%
