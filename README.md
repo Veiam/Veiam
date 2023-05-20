@@ -1,8 +1,7 @@
 - 👋 Hi there pard, I’m Day!
 - 👀 I’m interested in spending my hours on creating a program that will automate a repetitive task that takes minutes.
 - ⚡ My current daily languages are
-  - Front-End: JavaScript/Angular/Angular JS
-  - Back-End: Java/SQL/SAS/Golang/Bash
+  - Java & SQL
 - 📫 How to reach me in seconds ... Visit my LinkedIn using my [page](https://veiam.github.io)!
 - 🔥 This Year's Project/Goal is ... System Designs/Software Architectures
 - ❄️ Future Project/Goal ideas ... Plugins/Add-ons.
